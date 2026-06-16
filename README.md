@@ -92,7 +92,7 @@ Guided self-reflection feature where users interact with an AI “Empty Chair”
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Love-M-365/Clario
+   git clone https://github.com/nityajamdagni/Clario
    cd clario
 
 
